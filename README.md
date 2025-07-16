@@ -30,7 +30,7 @@ Each project folder.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/machineLearningProjects.git
+git clone https://github.com/void-desperado/machineLearningProjects.git
 cd machineLearningProjects
 ```
 
