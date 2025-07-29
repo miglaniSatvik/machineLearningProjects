@@ -60,5 +60,4 @@ if st.button("Predict"):
         st.write("Malignant")
     elif prediction == "B":
         st.write("Benign")
-    else:
-        st.write(f"Prediction: {prediction}")
+
